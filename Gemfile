@@ -16,6 +16,7 @@ gem 'twitter-typeahead-rails'
 gem 'masonry-rails'
 gem 'jquery-turbolinks'
 gem 'aws-sdk'
+gem 'kaminari'
 
 group :development do
   gem 'better_errors'
