@@ -87,7 +87,7 @@ $(document).ready(function () {
             $('#message').hide();
 
             $('#submit')
-      .after('<img src="app/assets/images/status.gif" class="loader">')
+      .after('<img src="app/assets/stylesheets/status.gif" class="loader">')
       .attr('disabled', 'disabled');
 
             $.post(action, {
