@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :blogs 
+
   root 'home#index'
 
   resources :home, :only => [:index]
