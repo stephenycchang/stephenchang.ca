@@ -29,6 +29,5 @@ group :production do
   gem 'rails_12factor'
   gem 'unicorn'
   gem 'thin'
+  gem 'mysql'
 end
-
-ruby "2.1.1"
