@@ -17,6 +17,7 @@ gem 'jquery-turbolinks'
 gem 'aws-sdk'
 gem 'kaminari'
 gem 'therubyracer'
+gem 'passenger'
 
 group :development do
   gem 'better_errors'
