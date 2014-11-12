@@ -29,7 +29,5 @@ end
 
 group :production do
   gem 'rails_12factor'
-  gem 'unicorn'
-  gem 'thin'
   gem 'mysql'
 end
