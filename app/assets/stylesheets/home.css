@@ -828,7 +828,7 @@ a .icon.outline.dark:hover {
   margin: 50px auto 35px;
 }
 
-.header1 { background:#ec5655; }
+.header1 { background-image: url("SkyPrep.png"); }
 .header2 { background:#0CF; }
 .header3 { background:#FC0; }
 .header4 { background:#CCC; }
