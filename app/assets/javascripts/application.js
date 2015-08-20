@@ -15,3 +15,9 @@
 //= require analytics
 //= require turbolinks
 //= require_tree .
+
+$(document).ready(function(){
+  console.log("Thank you for taking the time in reviewing my website! Please don't hesitate to contact me for any inquiries!");
+  console.log("Best regards,")
+  console.log("Stephen Chang")
+});
